@@ -1,0 +1,19 @@
+.wrapper{
+    width:20%;
+}
+.btn{
+    width:80px;
+    height:80px;
+    margin:10px;
+    background-color:lightcoral;
+    cursor: pointer;
+
+
+}
+.maindiv{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+
+}
